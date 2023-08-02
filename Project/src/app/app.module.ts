@@ -6,13 +6,17 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { PromiseComponent } from './promise/promise.component';
 import { ObservablesComponent } from './observables/observables.component';
+import { FromEventComponent } from './observables/from-event/from-event.component';
+import { ListComponent } from './observables/list/list.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     PromiseComponent,
-    ObservablesComponent
+    ObservablesComponent,
+    FromEventComponent,
+    ListComponent
   ],
   imports: [
     BrowserModule,

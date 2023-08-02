@@ -81,6 +81,5 @@ export class PromiseComponent implements OnInit {
   // }
 
 
-  var p1 = new Promise
 
 }

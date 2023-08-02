@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+li {
+    list-style-type: none;
+}
+
+button {
+    height: 100px;
+    width: 200px;
+    font-size: x-large;
+}
+
+ul {
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
