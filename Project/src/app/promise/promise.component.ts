@@ -80,4 +80,7 @@ export class PromiseComponent implements OnInit {
   //   console.log('MyFunction Called!!!');
   // }
 
+
+  var p1 = new Promise
+
 }
